@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack OpenSource<br>👯 I’m looking to collaborate on Typescript/Javascript,Go<br>🤝 I’m looking for help with RUST<br>🌱 I’m currently learning Next.js , rust <br>📫 Reach me on anubhavpurohitno1@gmail.com<br>
+🔭 I’m currently working on Full Stack OpenSource<br>👯 I’m looking to collaborate on Typescript/Javascript,Go<br>🌱 I’m currently learning Next.js  <br>📫 Reach me on anubhavpurohitno1@gmail.com<br>
 
 
 ## 🌐 Socials:
